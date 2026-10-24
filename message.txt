@@ -1,1 +1,4 @@
-Message from main branch
+<<<<<<< HEAD
+Message from merging branches
+=======
+>>>>>>> feature-greeting
